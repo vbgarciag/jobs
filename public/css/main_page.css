@@ -1,0 +1,15 @@
+.navBarCustom {
+  background-color: forestgreen !important;
+  min-height: 80px !important;
+}
+
+.logo-utc {
+  width: 70px;
+  height: 55px;
+}
+
+.username-link {
+  color: #ffffff !important;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInJlc291cmNlcy9hc3NldHMvc2Fzcy9tYWluX3BhZ2Uuc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIubmF2QmFyQ3VzdG9tIHsgYmFja2dyb3VuZC1jb2xvcjogZm9yZXN0Z3JlZW4gIWltcG9ydGFudDsgbWluLWhlaWdodDogODBweCAhaW1wb3J0YW50OyB9XG4ubG9nby11dGMgeyB3aWR0aDogNzBweDsgaGVpZ2h0OiA1NXB4OyB9XG4udXNlcm5hbWUtbGluayB7IGNvbG9yOiAjZmZmZmZmICFpbXBvcnRhbnQ7IH0iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsQUFBQSxhQUFhLENBQUM7RUFBRSxnQkFBZ0IsRUFBRSxzQkFBc0I7RUFBRyxVQUFVLEVBQUUsZUFBZTtDQUFLOztBQUMzRixBQUFBLFNBQVMsQ0FBQztFQUFFLEtBQUssRUFBRSxJQUFJO0VBQUcsTUFBTSxFQUFFLElBQUk7Q0FBSzs7QUFDM0MsQUFBQSxjQUFjLENBQUM7RUFBRSxLQUFLLEVBQUUsa0JBQWtCO0NBQUsifQ== */
